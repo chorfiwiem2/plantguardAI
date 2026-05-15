@@ -1,0 +1,88 @@
+FICHE TECHNIQUE — LA FUSARIOSE
+Pathogène : Fusarium oxysporum, Fusarium solani, Fusarium graminearum
+Type : Maladie fongique — Champignon du sol
+Cultures touchées : tomate, blé, maïs, fraisier, concombre, poivron, aubergine, laitue
+
+=== MOTS-CLÉS POUR RECHERCHE ===
+fusariose, flétrissement, jaunissement, plante qui se fane, plante flétrie,
+feuilles jaunes du bas vers le haut, tige brune à l'intérieur, racines pourries,
+brunissement interne, pourriture racines, dépérissement, plante morte soudainement,
+jaunissement sans taches, flétrissement progressif, fusarium, fonte des semis,
+piétin, brunissement vasculaire, vaisseaux bruns, tige coupée brune,
+feuilles tombent, croissance arrêtée, plante chétive, semis qui meurent,
+Fusarium oxysporum, wilt, vascular wilt, fusariose tomate, fusariose blé,
+pourriture du collet, pourriture des racines, plante qui se dessèche
+
+=== IDENTIFICATION DE LA MALADIE ===
+Nom : Fusariose (Flétrissement fusarien)
+Pathogène responsable : Fusarium oxysporum f.sp. lycopersici (tomate), F. oxysporum f.sp. cubense (autres)
+Type : Champignon tellurique (vit dans le sol)
+Niveau de gravité : Élevé — difficile à éliminer une fois dans le sol
+
+=== SYMPTÔMES CARACTÉRISTIQUES ===
+
+Symptôme principal — flétrissement :
+- Flétrissement progressif des feuilles du bas vers le haut
+- Les feuilles jaunissent et se fanent même quand le sol est humide
+- La plante semble manquer d'eau alors qu'elle est arrosée
+- Le flétrissement commence souvent d'un seul côté de la plante
+
+Sur les tiges et racines :
+- En coupant la tige en coupe transversale : brunissement des vaisseaux conducteurs
+- Les vaisseaux internes de la tige sont bruns ou orangés (signe distinctif)
+- Les racines présentent une pourriture brune
+- Le collet (base de la tige) peut être pourri
+
+Sur les feuilles :
+- Jaunissement commençant par les feuilles inférieures
+- Pas de taches rondes — jaunissement diffus
+- Les feuilles tombent prématurément
+
+Sur les semences et semis :
+- Fonte des semis : les jeunes plants pourrissent à la base
+- Les semences peuvent ne pas germer
+
+Conditions favorables :
+- Températures élevées du sol (25-32°C)
+- Sol trop humide ou mal drainé
+- Sol acide
+- Blessures aux racines (nématodes, insectes)
+
+=== NE PAS CONFONDRE AVEC ===
+- Fusariose : flétrissement + jaunissement SANS taches rondes + vaisseaux bruns à l'intérieur
+- Mildiou : taches jaunes angulaires + duvet blanc sous les feuilles
+- Alternariose : taches brunes rondes avec anneaux concentriques
+
+=== TRAITEMENT CHIMIQUE ===
+- Thiophanate-méthyl (TOPSIN M) : 1-2 kg/ha en traitement du sol
+- Carbendazime : 0,5-1 kg/ha en application au sol
+- Fludioxonil (CELEST) : traitement des semences avant plantation
+- Prochloraz : traitement des semences 2 g/kg
+
+=== TRAITEMENT BIOLOGIQUE ===
+- Trichoderma harzianum (T22) : 2-5 kg/ha incorporé dans le sol
+- Bacillus subtilis (SERENADE) : 2-4 L/ha en arrosage
+- Mycorrhizes : améliore la résistance des racines
+- Compost bien décomposé : améliore la microbiologie du sol
+
+=== CALENDRIER D'APPLICATION ===
+- Traitement préventif : avant la plantation, traitement du sol
+- Traitement des semences : trempage avant semis
+- En cas d'infection déclarée : arracher les plantes touchées
+- Traitement biologique : à renouveler toutes les 2-3 semaines
+
+=== PRÉVENTION ===
+- Rotation des cultures sur 3-4 ans minimum
+- Utiliser des semences saines et traitées
+- Améliorer le drainage du sol
+- Désinfecter les outils entre les rangs
+- Utiliser des variétés résistantes (greffage sur porte-greffe résistant)
+- Éviter les blessures aux racines lors du désherbage
+
+=== PRÉCAUTIONS SÉCURITÉ ===
+- EPI requis : gants, masque, lunettes de protection
+- Délai avant récolte : 7 à 30 jours selon le produit
+- Les plantes malades doivent être arrachées et brûlées
+- Ne pas composter les plantes malades (risque de propagation)
+
+Source : INRAE France, FAO, INRAT Tunisie, Plantwise CABI

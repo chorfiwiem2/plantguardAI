@@ -1,0 +1,77 @@
+FICHE TECHNIQUE — L'ALTERNARIOSE
+Maladie des plantes — Champignon — Maladies des tiges, feuilles et fruits
+
+=== LE BIOAGRESSEUR ===
+
+Description :
+- Alternaria est spécifique à certaines familles botaniques. Il peut se développer en association avec d'autres pathologies (nécroses, maladies fongiques, etc.).
+- La maladie se propage par le vent, l'eau et le sol.
+- Elle touche les tomates, pommes de terre, choux, oignons, poireaux et carottes.
+- Pathogènes responsables : Alternaria solani, A. alternata, A. porri, A. dauci, A. brassicicola.
+
+=== SYMPTÔMES ET DÉGÂTS ===
+
+- Maladie des taches brunes, de forme variable, rondes à allongées.
+- Les taches sont brunes et entourées d'un halo jaune.
+- Des cercles concentriques sont souvent visibles à l'intérieur des taches.
+- Les taches apparaissent sur les feuilles, les tiges et les fruits.
+- La maladie provoque un jaunissement et une chute prématurée des feuilles.
+- En cas d'attaque sévère, la plante peut perdre toutes ses feuilles (défoliation).
+
+Cultures touchées : tomate, pomme de terre, aubergine, choux, carotte, oignon vert, poireau, plantes florales.
+
+Saisonnalité : présente toute l'année, avec un pic entre mars et octobre (climat chaud et humide).
+
+=== FACTEURS DE RISQUE ===
+
+- Température élevée (20 à 30°C)
+- Forte humidité et rosée nocturne
+- Plantes affaiblies ou stressées
+- Densité de plantation trop élevée
+- Mauvaise aération du feuillage
+- Sol mal drainé
+
+=== TRAITEMENTS CHIMIQUES AUTORISÉS ===
+
+Biocontrôle :
+- Hydroxyde de cuivre (CHAMP WG) : dosage 3 à 15 jours avant récolte, délai re-entrée 48h, max 28 kg/ha sur 7 ans. Cultures : pomme de terre, tomate.
+- Cuivre (CUPROCOL DUO) : délai avant récolte 7 jours, délai re-entrée 6 à 8h, 4 applications max. Cultures : plantes florales.
+
+Autres produits phytosanitaires :
+- Diméthomorphe / Mancozèbe (ACROBAT MDG) : délai récolte 7 jours, re-entrée 48h, 3 applications. Culture : pomme de terre.
+- Difénoconazole / Cyflufénamide (CIDELY TOP) : délai récolte 3 jours, re-entrée 24h, 1 application. Cultures : aubergine, tomate.
+- Azoxytrobine (CONNECT 800 WG) : délai récolte 3 jours, re-entrée 48h, 1 à 3 applications. Cultures : pomme de terre, tomate, plantes florales.
+- Mancozèbe (MILCOZEBE) : délai récolte 3 à 28 jours, re-entrée 48h, 3 à 8 applications. Cultures : pomme de terre, aubergine, tomate, carotte.
+- Pyraclostrobine (OPTIMO TECH) : délai récolte 7 jours, re-entrée 24h, 3 applications. Culture : pomme de terre.
+- Azoxytrobine (ORTIVA) : délai récolte 3 à 21 jours, re-entrée 6 à 8h, 3 applications. Cultures : aubergine, tomate, choux, carotte, oignon vert, plantes florales.
+- Azoxytrobine / Difénoconazole (ORTIVA TOP) : délai récolte 3 à 21 jours, re-entrée 6 à 8h, 3 applications. Cultures : aubergine, tomate, choux, carotte, oignon vert.
+- Difénoconazole / Mandipropamid (REVUS TOP) : délai récolte 21 jours, re-entrée 6 à 8h, 3 applications. Culture : pomme de terre.
+- Difénoconazole (SCORE) : délai récolte 3 à 21 jours, re-entrée 24h, 3 applications. Cultures : aubergine, tomate, choux, carotte, plantes florales.
+- Thiophanate-methyl (TOPSIN 70 WG) : délai récolte 3 jours, re-entrée 48h, 2 applications. Cultures : aubergine, tomate, plantes florales.
+- Fluazine / Diméthomorphe (VENDETTA) : délai récolte 7 jours, re-entrée 48h, 3 applications. Culture : pomme de terre.
+
+=== PROTECTION ET MOYENS DE LUTTE ===
+
+Gestion prophylactique — mesures agronomiques :
+- Rotation des cultures (ne pas replanter la même famille de plante au même endroit)
+- Utiliser des graines et plants de qualité sanitaire certifiée
+- Aérer le feuillage, éviter les fortes densités de plantation
+- Assurer le drainage du sol, pratiquer l'irrigation au goutte-à-goutte
+- Effeuillage régulier, élimination des résidus de culture infectés
+- Nettoyage et désinfection du matériel de taille
+- Surveillance attentive et régulière des cultures
+
+Stratégie de traitement recommandée :
+- Alterner les fongicides avec des codes FRAC différents pour éviter les résistances.
+- Exemple de rotation : ORTIVA (FRAC 11) + REVUS TOP (FRAC 40) + MILCOZEBE (FRAC M3).
+
+=== PRÉCAUTIONS DE SÉCURITÉ ===
+
+- Lire attentivement l'étiquette avant utilisation.
+- Les dosages peuvent être différents selon la culture en plein champ ou sous abri.
+- Porter les équipements de protection individuelle (EPI) : gants, masque, lunettes.
+- Respecter le délai avant récolte indiqué pour chaque produit.
+- Respecter le délai de ré-entrée au champ après traitement.
+- Certains produits sont CMR (cancérigènes, mutagènes ou reprotoxiques) : manipulation avec précaution.
+
+Source : Chambre d'Agriculture Nouvelle-Calédonie (CANC) — Fiche technique Gestion des Bioagresseurs.

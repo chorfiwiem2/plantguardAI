@@ -1,0 +1,92 @@
+FICHE TECHNIQUE — ALTERNARIOSE DE LA TOMATE
+Alternaria solani — Guide de Gestion de Problèmes Phytosanitaires
+Auteurs : MBONIHANKUYE Cyrille (ISABU) et NIYIBIKORA Idrissa (BEPEAE)
+Edité par : Plantwise — Mars 2022 — Burundi
+
+=== IDENTIFICATION DE LA MALADIE ===
+
+Nom de la maladie : Alternariose de la tomate
+Pathogène responsable : Alternaria solani (champignon)
+Type : Maladie fongique
+Culture touchée : Tomate principalement
+
+=== SYMPTÔMES ===
+
+- Taches brunes arrondies, allongées, parfois zonées concentriquement sur les feuilles et les fruits.
+- Les taches sont brunes, entourées d'un halo jaunâtre.
+- Des cercles concentriques sont visibles à l'intérieur des taches.
+- L'alternariose cause des taches arrondies, brunes, zonées concentriquement sur les fruits.
+- Les symptômes apparaissent sur les feuilles, les tiges et les fruits de la tomate.
+
+=== SURVEILLANCE ===
+
+- L'alternariose est une maladie fongique qui nécessite une surveillance régulière.
+- Passer dans le champ une fois tous les deux jours jusqu'à la récolte.
+- Observer des taches brunes allongées, parfois zonées concentriques sur les feuilles et les fruits.
+- On agit quand il y a présence de deux à cinq plantes infectées par petit champ.
+
+=== PRÉVENTION ===
+
+- Semer en lignes séparées de 20 cm dans le germoir pour faciliter les travaux d'entretien.
+- Effectuer la taille des plants pour aérer la culture.
+- Utilisation des variétés tolérantes : Tengeru 97 et Tanya.
+- Utilisation des semences saines — éviter de produire des semences dans son champ de tomate.
+- Rotation avec des cultures qui ne sont pas de la même famille : haricot, choux, riz, patate douce, etc.
+- Pour réduire l'inoculum, éviter d'irriguer avec de l'eau passant dans un autre champ de tomate ou de pomme de terre.
+- Respecter les écartements de plantation : 60 cm x 50 cm.
+
+=== LUTTE DIRECTE — TRAITEMENTS BIOLOGIQUES ===
+
+Traitement 1 — Lait frais :
+- Utiliser du lait frais à la dose de 1 litre dans 10 litres d'eau.
+- Source : INADES Formation.
+
+Traitement 2 — Extrait de feuilles de papayer :
+- Appliquer un mélange d'extrait de feuilles fraîches de papayer : 1 kg dans 10 litres d'eau.
+- Après 15 jours de fermentation, filtrer et utiliser directement sans diluer.
+- En préventif : Appliquer tous les 15 jours à 1 litre d'eau pour 10 m².
+- En curatif : Appliquer dès l'apparition des symptômes, toutes les semaines à 2 litres pour 10 m².
+
+Traitement 3 — Arrachage :
+- Arracher les plants sévèrement attaqués et les enfouir dans le sol.
+
+=== LUTTE DIRECTE — TRAITEMENTS CHIMIQUES ===
+
+Important : Les fongicides disponibles sur le marché peuvent protéger contre une nouvelle infection, mais ne peuvent pas guérir une plante déjà infectée. Si des taches sur les feuilles sont observées, les fongicides n'ont aucun effet sur cette plante infectée.
+
+Produit 1 — Chlorothalonil :
+- Exemple de produit commercial : BANKO 720 SC (720 g/l SC)
+- Toxicité OMS : U ou IV (peu susceptible d'être toxique)
+- Délai avant récolte (DAR) : 7 jours
+- Délai de ré-entrée (DRE) : 24 heures
+- Attention : Toxique sur les organismes du sol (vers de terre), acariens prédateurs, abeilles et autres pollinisateurs.
+
+Produit 2 — Azoxystrobine :
+- Exemple de produit commercial : BANKIT 25 SC
+- Toxicité OMS : U ou IV (peu toxique)
+- Délai avant récolte (DAR) : 7 jours
+- Délai de ré-entrée (DRE) : 24 heures
+- Attention : Toxique sur les organismes aquatiques, les organismes du sol (vers de terre), acariens prédateurs, parasitoïdes, pollinisateurs.
+
+=== RESTRICTIONS ET PRÉCAUTIONS DE SÉCURITÉ ===
+
+- Lorsque vous utilisez un pesticide ou un produit botanique, portez toujours des vêtements de protection.
+- Suivre les instructions figurant sur l'étiquette du produit : dosage, moment d'application, délai d'emploi avant récolte, nombre maximal de pulvérisations, délai de rentrée restreint.
+- Ne pas verser dans les égouts et les sources d'eau.
+- Toujours consulter la liste récente des pesticides enregistrés par MINEAGRIAE de Burundi.
+- EPI requis : gants, masque, lunettes de protection, vêtements couvrants.
+
+=== INFORMATIONS COMPLÉMENTAIRES ===
+
+- La surveillance régulière est essentielle : inspecter le champ tous les 2 jours.
+- Intervenir dès les premiers signes d'infection (2 à 5 plantes infectées).
+- Combiner les méthodes préventives et curatives pour une gestion efficace.
+- Alterner les fongicides de familles chimiques différentes pour éviter les résistances.
+
+=== MOTS-CLÉS POUR RECHERCHE ===
+taches brunes circulaires, anneaux concentriques, taches en cible,
+taches brunes tomate, taches brunes pomme de terre, cercles concentriques,
+taches rondes brunes, halo jaune autour taches, alternariose tomate
+
+Source : PlantwisePlus — CABI — Guide de Gestion de Problèmes Phytosanitaires Burundi 2022.
+Licence : CC BY-NC-SA 4.0

@@ -1,0 +1,11 @@
+langchain
+langchain-groq
+langchain-community
+faiss-cpu
+sentence-transformers
+rank-bm25
+gradio
+pymupdf
+python-dotenv
+google-generativeai
+pillow

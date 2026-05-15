@@ -1,0 +1,17 @@
+# Environnements virtuels
+venv/
+venv311/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Bases vectorielles (si tu en génères)
+chroma_db/
+faiss_index/
+vectorstore/
+
+# Fichiers lourds ou temporaires
+*.log
+.DS_Store
+Thumbs.db

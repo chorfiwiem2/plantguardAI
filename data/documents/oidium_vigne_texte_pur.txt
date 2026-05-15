@@ -1,0 +1,90 @@
+FICHE TECHNIQUE — L'OÏDIUM DE LA VIGNE
+Pathogène : Erysiphe necator (Schwein) — Champignon
+Anamorphe : Oïdium tuckeri Berk. / Syn. Uncinula necator (Schw.) Bur.
+Auteurs : Olivier Viret, Werner Siegfried, Pierre-Henri Dubuis, Katia Gindro
+Source : Agroscope | Amtra — Suisse 2014
+
+=== INTRODUCTION ===
+
+L'oïdium est originaire d'Amérique du Nord. Erysiphe necator est la première maladie fongique introduite en Europe. En 1845, un premier cas est mentionné sur une vigne en serre en Grande-Bretagne. La maladie s'est ensuite étendue à l'ensemble des vignobles européens en quelques années. Actuellement, l'oïdium est présent dans tous les vignobles du monde et considéré — avec le mildiou et la pourriture grise — comme une des principales maladies de la vigne, susceptible de détruire complètement la récolte lorsque les mesures de lutte adéquates ne sont pas prises.
+
+=== SYMPTÔMES ===
+
+L'oïdium s'attaque à tous les organes verts de la vigne, en infectant essentiellement la surface des tissus.
+
+Sur les feuilles :
+- Les premières manifestations sont une crispation du limbe, particulièrement chez les jeunes feuilles, qui se déforment.
+- La face supérieure des feuilles porte de légères décolorations qui ressemblent au stade initial des taches d'huile du mildiou.
+- A la face inférieure de ces taches, les cellules infectées deviennent gris-brunâtre sous le mycélium grisâtre du champignon.
+- Les nécroses foliaires se couvrent d'un feutrage blanc-grisâtre sur et sous les feuilles.
+- L'oïdium dégage une odeur caractéristique de moisissure.
+- Un feutrage blanc, poudreux, semblable à de la farine, recouvre la surface des feuilles, des tiges et parfois des fleurs.
+
+Sur les rameaux :
+- Les rameaux infectés portent de petites taches blanc-gris qui s'étendent, confluent et forment de larges plages brunâtres.
+- En hiver, ces taches brun-rougeâtre sur les sarments aoûtés témoignent de l'importance de la maladie l'année écoulée.
+- Les infections primaires sont parfois issues de mycélium hiverné dans les bourgeons.
+- Le rameau entier enfariné prend l'allure d'un drapeau en berne. Sa croissance est entravée et son développement chétif.
+- Ces drapeaux peuvent être observés dès le stade 4 à 6 feuilles.
+
+Sur les inflorescences et baies :
+- Les inflorescences peuvent être infectées avant et juste après la floraison, se recouvrant d'un duvet grisâtre, elles avortent et tombent.
+- Les inflorescences et les jeunes baies sont particulièrement sensibles à l'oïdium.
+- Les cellules de l'épiderme des baies infectées sont déstructurées par le champignon et perdent leur plasticité.
+- Lorsque la pulpe augmente, les baies éclatent et finissent par sécher.
+- Les infections tardives se signalent par des taches réticulées gris-brun qui enrobent la baie.
+- Les grappes malades dégagent une forte odeur de moisissure.
+
+A la fin de l'été :
+- De petits corps globuleux jaunâtres puis brun-noir, à peine visibles, ponctuent de façon irrégulière tous les organes atteints.
+- Ces organes de survie durant l'hiver, les cléistothèces, déclencheront les premières infections l'année suivante.
+
+=== ÉPIDÉMIOLOGIE ===
+
+- L'oïdium hiberne sous forme de cléistothèces principalement dans l'écorce des ceps, et/ou sous forme de mycélium dans les bourgeons dormants.
+- Au printemps, les infections primaires se déclenchent à partir d'ascospores formées dans les organes de survie (cléistothèces).
+- Les conditions pour la libération des ascospores : précipitations, humectation de plus de 2,5 heures, températures dépassant 11°C.
+- Contrairement aux autres maladies fongiques, l'oïdium n'a besoin que d'une faible humidité relative (moins de 20%) pour la germination de ses conidies.
+- Une forte humidité relative de l'air favorise la sporulation.
+- Lorsque les premiers symptômes sont visibles, il est très difficile de lutter contre l'oïdium.
+
+=== LUTTE ET TRAITEMENT ===
+
+Objectif principal :
+- Empêcher le début de l'épidémie sur feuille.
+- Réduire au minimum l'inoculum potentiel de la floraison à la nouaison, lorsque les grappes sont les plus vulnérables.
+
+Calendrier de traitement :
+- La lutte commence en général entre les stades 4 et 8 feuilles étalées, selon la région.
+- En combinaison avec les traitements contre le mildiou.
+- La protection est maintenue jusqu'à la fermeture de la grappe.
+- La période entre la floraison et la nouaison doit être particulièrement bien protégée.
+
+Traitement au soufre (traitement principal) :
+- En cas de maladie déclarée, seul le soufre en poudre permet d'enrayer la maladie grâce à sa phase vapeur.
+- Le poudrage doit s'effectuer à des températures supérieures à 25°C.
+- Conditions requises : bonne luminosité et absence de précipitations.
+- Après un poudrage, la protection doit être renouvelée par l'application d'un fongicide après 4 à 6 jours.
+- La qualité de la pulvérisation est essentielle.
+
+Mesures agronomiques prophylactiques :
+- Aération de la zone des grappes : palissage, épamprage, effeuillage.
+- Maîtrise de la vigueur : fertilisation, enherbement.
+- Gestion rigoureuse des intervalles entre les traitements pour garantir une couverture sans faille.
+
+=== FACTEURS DE RISQUE ===
+
+- Températures entre 20 et 30°C (optimum pour le développement du champignon)
+- Faible humidité relative de l'air (l'oïdium se développe même par temps sec)
+- Vignes non traitées ou traitements insuffisants
+- Forte densité de feuillage limitant l'aération
+- Présence de cléistothèces hivernants sur les ceps
+
+=== PRÉCAUTIONS DE SÉCURITÉ ===
+
+- Porter les équipements de protection individuelle (EPI) lors des traitements.
+- Respecter les dosages recommandés pour chaque produit.
+- Respecter les délais avant récolte et les délais de ré-entrée au champ.
+- Alterner les fongicides de familles chimiques différentes pour éviter les résistances.
+
+Source : Agroscope — Amtra — Revue Vitiarbohorti — Suisse 2014.

@@ -1,0 +1,92 @@
+FICHE TECHNIQUE — LA ROUILLE DES PLANTES
+Pathogène : Puccinia spp., Phragmidium spp., Uromyces spp.
+Type : Maladie fongique — Champignon obligatoire
+Cultures touchées : blé, orge, vigne, rosier, haricot, poireau, ail, tournesol
+
+=== MOTS-CLÉS POUR RECHERCHE ===
+rouille, pustules orange, points orange, poudre orange, sporodoches orange,
+pustules brunes sous feuilles, points en relief, petits points rouges,
+poudre rousse, taches rouille, sporulation orange, poudre qui se dépose sur doigts,
+rouille brune, rouille jaune, rouille noire, rouille blé, rouille vigne,
+rouille rosier, Puccinia, Phragmidium, pustules rouges, points roux,
+face inférieure feuilles, dessous feuilles points, pustules sur feuilles,
+taches orangées, points relief orange, petites boursouflures oranges,
+rouille orge, rouille haricot, épis blanchis sporodoches
+
+=== IDENTIFICATION DE LA MALADIE ===
+Nom : Rouille (plusieurs types selon la culture)
+Pathogène responsable : Puccinia recondita (blé), Puccinia striiformis (rouille jaune blé), Phragmidium mucronatum (rosier)
+Type : Champignon biotrophe (ne vit que sur plante vivante)
+Niveau de gravité : Moyen à élevé selon le stade d'infection
+
+=== SYMPTÔMES CARACTÉRISTIQUES ===
+
+Symptôme principal — pustules colorées :
+- Petites pustules (0,5-2 mm) en relief sur la face inférieure des feuilles
+- Couleur orange, rouille, rousse, ou brune selon le type de rouille
+- Les pustules libèrent une poudre colorée (spores) quand on les touche
+- La poudre orange se dépose facilement sur les doigts
+
+Sur la face supérieure des feuilles :
+- Petites taches jaunes ou chlorotiques correspondant aux pustules dessous
+- Les taches dessus sont moins visibles que les pustules dessous
+
+Évolution de la maladie :
+- En début d'infection : quelques pustules isolées
+- En cas grave : pustules couvrent toute la surface, feuilles jaunissent et meurent
+- Les feuilles fortement atteintes se dessèchent et tombent
+
+Sur le blé et céréales :
+- Rouille brune : pustules brunes sur feuilles et gaines
+- Rouille jaune : pustules jaunes en stries sur feuilles
+- Rouille noire : grandes pustules brun-noir sur tiges et feuilles
+- Épis blanchis dans les cas graves avec sporodoches oranges
+
+Sur le rosier :
+- Pustules orange vif sur face inférieure des feuilles
+- Face supérieure : taches jaune-orange
+- Chute prématurée des feuilles atteintes
+
+Conditions favorables :
+- Températures modérées (15-22°C)
+- Forte humidité, rosée nocturne
+- Vent qui disperse les spores
+
+=== NE PAS CONFONDRE AVEC ===
+- Rouille : pustules ORANGE/BRUN en RELIEF sur face inférieure — poudre qui se dépose
+- Oïdium : poudre BLANCHE sur face supérieure
+- Mildiou : duvet BLANC/GRIS sur face inférieure sans relief
+
+=== TRAITEMENT CHIMIQUE ===
+- Tébuconazole (FOLICUR) : 0,5 L/ha — délai récolte 35 jours
+- Propiconazole (TILT) : 0,5 L/ha — délai récolte 30 jours
+- Myclobutanil : 0,3 L/ha — délai récolte 14 jours
+- Trifloxystrobine + Tébuconazole (NATIVO) : 0,6 L/ha
+
+=== TRAITEMENT BIOLOGIQUE ===
+- Soufre mouillable : 3-5 kg/ha — toutes les 10-14 jours
+- Bicarbonate de potassium : 5 g/L d'eau
+- Huile de neem : 5 mL/L — en préventif uniquement
+- Ces traitements bio sont moins efficaces sur rouille avancée
+
+=== CALENDRIER D'APPLICATION ===
+- Début traitement : dès les premiers pustules visibles
+- Fréquence : toutes les 10 à 14 jours
+- Nombre d'applications : 2 à 3 selon gravité
+- Période critique : période de croissance active
+
+=== PRÉVENTION ===
+- Utiliser des variétés résistantes à la rouille
+- Éliminer les plantes hôtes alternatives autour des cultures
+- Éviter les excès d'azote qui favorisent les tissus tendres
+- Surveiller régulièrement la face inférieure des feuilles
+- Rotation des cultures pour les céréales
+- Éliminer les résidus de culture après récolte
+
+=== PRÉCAUTIONS SÉCURITÉ ===
+- EPI requis : gants, masque, lunettes de protection
+- Délai avant récolte : 14 à 35 jours selon le produit
+- Alterner les familles de fongicides (risque de résistance élevé)
+- Porter des vêtements couvrants pour éviter le contact avec les spores
+
+Source : INRAE France, Agroscope Suisse, FAO, INRAT Tunisie

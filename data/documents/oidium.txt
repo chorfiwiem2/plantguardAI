@@ -1,0 +1,60 @@
+FICHE TECHNIQUE — L'OÏDIUM (Powdery Mildew)
+Pathogène : Erysiphe necator (vigne), Erysiphe cichoracearum (cucurbitacées), Podosphaera xanthii
+Type : Maladie fongique — Champignon
+Cultures touchées : vigne, courgette, concombre, melon, tomate, blé, orge, rosier, fraisier
+
+=== SYMPTÔMES CARACTÉRISTIQUES ===
+- Feutrage blanc, poudreux, semblable à de la farine sur la surface des feuilles
+- Poudre blanche qui recouvre les feuilles, les tiges et parfois les fleurs
+- Les feuilles couvertes de poudre blanche jaunissent puis sèchent
+- Sur la vigne : taches blanches poudreuses sur feuilles et grappes
+- Sur les céréales : duvet blanc cotonneux sur les feuilles et tiges
+- Odeur caractéristique de moisi
+- La face supérieure des feuilles est principalement touchée
+- En cas grave : les feuilles se déforment, se recroquevillent et tombent
+- Les fruits peuvent se fissurer ou se déformer
+
+=== NE PAS CONFONDRE AVEC ===
+- Mildiou : duvet gris/blanc SOUS la feuille (face inférieure), taches jaunes angulaires dessus
+- Oïdium : poudre blanche SUR la feuille (face supérieure)
+
+=== FACTEURS DE RISQUE ===
+- Températures entre 20 et 25°C
+- Faible humidité relative (l'oïdium se développe même par temps sec)
+- Forte densité de plantation limitant l'aération
+- Excès d'azote qui favorise une végétation tendre
+
+=== TRAITEMENT CHIMIQUE ===
+- Soufre mouillable : 3 à 5 kg/ha — appliquer toutes les 10 à 14 jours
+- Azoxystrobine (ORTIVA) : 1 L/ha — délai récolte 3 jours
+- Tébuconazole (FOLICUR) : 0,5 L/ha — délai récolte 35 jours
+- Myclobutanil : 0,3 L/ha — délai récolte 14 jours
+
+=== TRAITEMENT BIOLOGIQUE ===
+- Soufre en poudre : 20 à 30 kg/ha — efficace à plus de 25°C
+- Bicarbonate de potassium : 5 g/L d'eau — appliquer toutes les 7 jours
+- Huile de neem : 5 mL/L d'eau — prévention uniquement
+
+=== CALENDRIER ===
+- Début traitement : dès les premiers symptômes ou en préventif
+- Fréquence : toutes les 7 à 14 jours
+- Nombre d'applications : 3 à 6 selon gravité
+- Période critique : floraison et nouaison
+
+=== PRÉVENTION ===
+- Aérer le feuillage, tailler pour réduire la densité
+- Éviter les excès d'engrais azotés
+- Utiliser des variétés résistantes
+- Alterner les fongicides de familles différentes pour éviter les résistances
+
+=== PRÉCAUTIONS SÉCURITÉ ===
+- EPI requis : gants, masque, lunettes de protection
+- Délai avant récolte : 3 à 35 jours selon le produit utilisé
+- Ne pas appliquer par vent fort ou forte chaleur (>30°C)
+
+Source : Agroscope Suisse, INRAE France, FAO
+
+=== MOTS-CLÉS POUR RECHERCHE ===
+poudre blanche feuilles, feutrage blanc, farine blanche sur feuilles,
+feuilles couvertes de blanc, taches blanches poudreuses, duvet blanc dessus,
+oïdium vigne, oïdium tomate, oïdium courgette, blanc poudreux

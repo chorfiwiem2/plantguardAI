@@ -1,0 +1,81 @@
+FICHE TECHNIQUE — LE MILDIOU
+Pathogène : Plasmopara viticola (vigne), Phytophthora infestans (tomate/pomme de terre)
+Type : Maladie fongique — Oomycète
+Cultures touchées : vigne, tomate, pomme de terre, laitue, oignon, concombre, melon
+
+=== MOTS-CLÉS POUR RECHERCHE ===
+mildiou, duvet blanc dessous feuilles, taches jaunes dessus feuilles,
+taches d'huile, taches angulaires, nervures, feuilles jaunissent,
+duvet gris sous feuilles, moisissure blanche sous feuilles,
+taches huileuses, jaunissement angulaire, mildiou vigne, mildiou tomate,
+mildiou pomme de terre, feutrage gris sous feuilles, sporulation blanche,
+taches délimitées par nervures, feuilles jaunes angulaires,
+Plasmopara, Phytophthora, downy mildew, mildiou cucurbitacées,
+taches jaunes avec duvet, humidité feuilles, pourriture brune tubercules
+
+=== IDENTIFICATION DE LA MALADIE ===
+Nom : Mildiou
+Pathogène responsable : Plasmopara viticola (vigne), Phytophthora infestans (tomate, pomme de terre)
+Type : Oomycète (faux champignon)
+Niveau de gravité : Élevé — peut détruire toute la récolte
+
+=== SYMPTÔMES CARACTÉRISTIQUES ===
+
+Sur les feuilles (symptôme principal) :
+- Face SUPÉRIEURE : taches jaunes, huileuses, angulaires, délimitées par les nervures
+- Face INFÉRIEURE : duvet blanc, gris ou violacé directement sous les taches jaunes
+- Les taches jaunes dessus correspondent exactement au duvet blanc dessous
+- Les taches ne traversent pas les nervures — elles sont angulaires et carrées
+
+Sur la vigne :
+- Taches d'huile jaune-vert sur face supérieure des feuilles
+- Duvet blanc cotonneux sur face inférieure
+- Les grappes touchées brunissent et sèchent
+- Les jeunes rameaux peuvent se courber en crosse
+
+Sur la tomate et pomme de terre :
+- Taches brunes sur feuilles + duvet blanc/gris dessous
+- Brunissement et pourriture des tiges
+- Les tubercules présentent une pourriture brune en surface
+
+Conditions favorables :
+- Températures entre 10 et 25°C
+- Forte humidité, pluies fréquentes
+- Nuits fraîches et humides suivies de journées chaudes
+
+=== NE PAS CONFONDRE AVEC ===
+- Oïdium : poudre BLANCHE sur la face SUPÉRIEURE (dessus) des feuilles
+- Mildiou : duvet blanc/gris sur la face INFÉRIEURE (dessous) des feuilles + taches jaunes dessus
+
+=== TRAITEMENT CHIMIQUE ===
+- Mancozèbe (DITHANE) : 2 kg/ha — délai récolte 28 jours — appliquer toutes les 7-10 jours
+- Cymoxanil + Mancozèbe (CURZATE M) : 2,5 kg/ha — délai récolte 7 jours
+- Metalaxyl (RIDOMIL) : 2,5 kg/ha — délai récolte 14 jours
+- Fosetyl aluminium (ALIETTE) : 2,5 kg/ha — délai récolte 21 jours
+- Cuivre oxychlorure : 3-5 kg/ha — délai récolte 7 jours
+
+=== TRAITEMENT BIOLOGIQUE ===
+- Hydroxyde de cuivre (CHAMP WG) : 2-3 kg/ha — certifié bio
+- Cuivre sulfate (bouillie bordelaise) : 200-400 g/100L d'eau
+- Appliquer en préventif avant les périodes humides
+
+=== CALENDRIER D'APPLICATION ===
+- Début traitement : dès les premiers symptômes ou en préventif
+- Fréquence : toutes les 7 à 10 jours en période à risque
+- Nombre d'applications : 4 à 6 selon gravité
+- Période critique : floraison, après les pluies
+
+=== PRÉVENTION ===
+- Utiliser des variétés résistantes au mildiou
+- Éviter d'arroser le soir (favorise l'humidité nocturne)
+- Assurer une bonne aération entre les plantes
+- Éliminer les débris végétaux infectés
+- Traitement préventif au cuivre en début de saison
+
+=== PRÉCAUTIONS SÉCURITÉ ===
+- EPI requis : gants, masque, lunettes de protection
+- Délai avant récolte : 7 à 28 jours selon le produit
+- Ne pas appliquer avant la pluie (rinçage du produit)
+- Alterner les fongicides pour éviter les résistances
+
+Source : INRAE France, Agroscope Suisse, FAO, INRAT Tunisie
