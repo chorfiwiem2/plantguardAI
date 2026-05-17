@@ -106,6 +106,20 @@ body, .gradio-container {
     border-radius: 12px 0 0 12px !important;
 }
 
+.bot, .assistant, .message.bot, [data-testid="bot"] {
+    color: #000000 !important;
+}
+
+/* S'assurer que le texte dans les blocs markdown soit aussi noir */
+.bot p, .bot strong, .bot em, .bot h1, .bot h2, .bot h3, .bot h4, .bot li {
+    color: #000000 !important;
+}
+
+/* Pour le composant Chatbot spécifiquement */
+.gr-chatbot .message.bot {
+    color: #000000 !important;
+}
+
 #input-row textarea {
     border: 1.5px solid var(--border) !important;
     border-radius: 10px !important;
@@ -175,6 +189,18 @@ body, .gradio-container {
 @media (max-width: 768px) {
     #plantguard-header h1 { font-size: 1.5rem !important; }
 }
+
+.bot, .assistant, .message.bot, [data-testid="bot"] {
+    color: #000000 !important;
+}
+
+.bot p, .bot strong, .bot em, .bot h1, .bot h2, .bot h3, .bot h4, .bot li {
+    color: #000000 !important;
+}
+
+.gr-chatbot .message.bot {
+    color: #000000 !important;
+}
 """
 
 # ─── Questions d'exemple ─────────────────────────────────────────────────────
@@ -191,47 +217,79 @@ EXAMPLE_QUESTIONS = [
 
 # ─── PIPELINE MANUEL (remplace l'agent ReAct) ───────────────────────────────
 
-def run_pipeline_texte(description: str) -> str:
-    """
-    Pipeline forcé pour description textuelle :
-    1. analyser_symptomes
-    2. recherche_base_agricole
-    3. generer_fiche_traitement
-    """
-    # Étape 1 : Diagnostic (.invoke metjode langchaine pour appeler un tool)
-    diagnostic = analyser_symptomes.invoke({"description": description})
-    
-    # Extraction du nom de maladie (ligne commençant par MALADIE:)
-    maladie = "Maladie non identifiée"
+def run_pipeline_texte(description: str, history: list = []) -> str:
 
-    for line in diagnostic.split("\n"): #Extrait le nom de la maladie depuis la réponse du tool.
-        if line.strip().upper().startswith("MALADIE:"):
-            maladie = line.split(":", 1)[1].strip() #Pour chaque ligne, si elle commence par "MALADIE:",
-                                                    #on prend tout ce qui est après les : et on le stocke dans maladie
-            break
+    # Mots qui indiquent une demande de traitement
+    mots_traitement = [
+        "traitement", "traiter", "soigner", "remède", "produit",
+        "fiche", "comment", "que faire", "solution", "quel traitement",
+        "bio", "chimique", "dose", "dosage", "appliquer"
+    ]
     
-    #Appelle les deux tools suivants avec le nom de la maladie trouvée.
-    # Étape 2 : Recherche base agricole
-    recherche = recherche_base_agricole.invoke({"query": maladie})
-    
-    # Étape 3 : Fiche traitement
-    fiche = generer_fiche_traitement.invoke({"maladie": maladie})
-    
+    est_question_suivi = any(
+        mot in description.lower() for mot in mots_traitement
+    )
 
-    # Assemblage final (Assemble les 3 résultats en un seul texte)
-    resultat = f"""🔍 **DIAGNOSTIC**
-{diagnostic}
+    # Cherche la maladie dans l'historique
+    maladie_precedente = None
+    if history:
+        for msg in reversed(history):
+            if msg.get("role") == "assistant":
+                contenu = msg.get("content", "")
+                
+                # Fix : si contenu est une liste, on la convertit en texte
+                if isinstance(contenu, list):
+                    contenu = " ".join([
+                        c.get("text", "") if isinstance(c, dict) else str(c)
+                        for c in contenu
+                    ])
+                
+                contenu = str(contenu)  # garantit que c'est toujours un string
+                
+                for line in contenu.split("\n"):
+                    line_clean = line.strip()
+                    if line_clean.upper().startswith("MALADIE:"):
+                        candidate = line_clean.split(":", 1)[1].strip()
+                        if candidate and candidate.lower() not in [
+                            "non identifiée", "inconnue", ""
+                        ]:
+                            maladie_precedente = candidate
+                            break
+            if maladie_precedente:
+                break
 
-📚 **RECHERCHE BASE AGRICOLE**
-{recherche}
+        # CAS 1 — Demande de traitement avec maladie connue
+        if est_question_suivi and maladie_precedente:
+            recherche = recherche_base_agricole.invoke(
+                {"query": maladie_precedente}
+            )
+            fiche = generer_fiche_traitement.invoke(
+                {"maladie": maladie_precedente}
+            )
+            return f"""📚 **INFORMATIONS — {maladie_precedente.upper()}**
+    {recherche}
 
 📋 **FICHE DE TRAITEMENT**
 {fiche}
 
 ---
-*PlantGuard AI — Diagnostic assisté par IA. Consultez un agronome pour validation.*"""
-    
-    return resultat
+*PlantGuard AI — Consultez un agronome pour validation.*"""
+
+    # CAS 2 — Nouvelle description → diagnostic uniquement
+    diagnostic = analyser_symptomes.invoke({"description": description})
+
+    maladie = "Maladie non identifiée"
+    for line in diagnostic.split("\n"):
+        if line.strip().upper().startswith("MALADIE:"):
+            maladie = line.split(":", 1)[1].strip()
+            break
+
+    return f"""🔍 **DIAGNOSTIC**
+{diagnostic}
+
+---
+💡 *Tapez **"quel est le traitement ?"** pour obtenir la fiche de traitement complète.*
+*PlantGuard AI — Consultez un agronome pour validation.*"""
 
 
 def run_pipeline_image(image_path: str, description: str = "") -> str:
@@ -274,13 +332,10 @@ def run_pipeline_image(image_path: str, description: str = "") -> str:
 
 # ─── Logique du chatbot ─────────────────────────────────────────────────────
 #Fonction centrale qui décide quel pipeline lancer 
-
 def chat_with_agent(message: str, history: list, image):
-
     if not message.strip() and image is None:
         return "Veuillez décrire les symptômes ou uploader une photo."
 
-    # Sauvegarder l'image temporairement
     image_path = None
     if image is not None:
         if hasattr(image, 'save'):
@@ -297,11 +352,8 @@ def chat_with_agent(message: str, history: list, image):
         if image_path:
             response = run_pipeline_image(image_path, message)
         else:
-            response = run_pipeline_texte(message)
-
-    #s'exécute toujours, même si une erreur survient —
-    # il supprime le fichier temporaire de l'image pour ne pas saturer le disque.
-    finally: 
+            response = run_pipeline_texte(message, history)  # ← passe history ici
+    finally:
         if image_path:
             try:
                 os.unlink(image_path)

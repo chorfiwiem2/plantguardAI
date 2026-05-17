@@ -8,19 +8,19 @@ from agent.tools.fiche_tool import generer_fiche_traitement
 import os
 from dotenv import load_dotenv
 
-load_dotenv()#charge var d'environnement
+load_dotenv()
 
-memory = MemorySaver()#Crée une instance de mémoire au niveau du module 
+# Mémoire persistante pour toutes les sessions
+memory = MemorySaver()
 
 def create_agent():
     llm = ChatGroq(
         model="llama-3.1-8b-instant",
-        temperature=0,# pas de créativité, juste des faits.
+        temperature=0,
         api_key=os.getenv("GROQ_API_KEY"),
-        max_tokens=4096,#nb max des tokens dans la reponse
-)
+        max_tokens=4096,
+    )
 
-    
     tools = [
         analyser_image_plante,
         analyser_symptomes,
@@ -28,34 +28,25 @@ def create_agent():
         generer_fiche_traitement
     ]
     
-    system_prompt = """Tu es PlantGuard AI. Tu as 4 outils et tu DOIS les utiliser.
+    system_prompt = """Tu es PlantGuard AI, un expert phytopathologiste. Tu aides les agriculteurs à identifier et traiter les maladies des plantes.
 
-RÈGLE ABSOLUE NUMÉRO 1 : Ne jamais répondre sans avoir appelé les 3 outils obligatoires.
-RÈGLE ABSOLUE NUMÉRO 2 : Toujours appeler generer_fiche_traitement en dernière étape.
-RÈGLE ABSOLUE NUMÉRO 3 : Jamais écrire "comme indiqué dans la fiche" sans avoir généré la fiche.
+RÈGLES STRICTES:
+1. Pour toute description de symptômes ou image, tu DOIS utiliser la séquence:
+   - analyser_symptomes (ou analyser_image_plante si image) → identifier la maladie
+   - recherche_base_agricole → chercher les infos dans la base
+   - generer_fiche_traitement → générer la fiche complète
 
-SÉQUENCE OBLIGATOIRE pour toute description de symptômes :
-1. Appelle analyser_symptomes → obtiens le nom de la maladie
-2. Appelle recherche_base_agricole → obtiens les informations confirmées
-3. Appelle generer_fiche_traitement → génère et affiche la fiche complète
+2. Si l'utilisateur demande "le traitement" ou "la fiche" et qu'une maladie a déjà été identifiée dans la conversation, utilise directement generer_fiche_traitement avec cette maladie.
 
-SÉQUENCE OBLIGATOIRE pour toute image :
-1. Appelle analyser_image_plante → obtiens le diagnostic visuel
-2. Appelle recherche_base_agricole → confirme avec la base
-3. Appelle generer_fiche_traitement → génère et affiche la fiche complète
+3. Ne jamais inventer d'informations. Base-toi uniquement sur les outils.
 
-INTERDIT : Répondre "consultez la fiche" sans avoir généré la fiche.
-INTERDIT : Donner des conseils généraux sans avoir utilisé les 3 outils.
-INTERDIT : S'arrêter après 1 ou 2 outils seulement.
+4. Réponds toujours en français, de manière structurée et professionnelle."""
 
-Réponds toujours en français. Affiche toujours la fiche complète générée."""
-
-    #Crée l'agent ReAct en assemblant tous les composants.
     agent = create_react_agent(
         model=llm,
         tools=tools,
         prompt=system_prompt,
-        checkpointer=memory #connecte la mémoire conversationnelle.
+        checkpointer=memory  # Active la mémoire conversationnelle
     )
     
     return agent
